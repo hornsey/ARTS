@@ -14,7 +14,7 @@
 - **Algorithm**：[1122. 数组的相对排序](https://github.com/hornsey/ARTS/blob/master/Algorithm/W1-Q1122%E6%95%B0%E7%BB%84%E7%9A%84%E7%9B%B8%E5%AF%B9%E6%8E%92%E5%BA%8F.md)
 - **Review**：[Kafka轮询](https://github.com/hornsey/ARTS/blob/master/Review/W1-kafka%E8%BD%AE%E8%AF%A2.md)
 - **Tip/Techni**：[Resource使用](https://github.com/hornsey/ARTS/blob/master/Tip/W1-Resource%E4%BD%BF%E7%94%A8.md)
-- **Share**：[微服务的简单理解]（https://github.com/hornsey/ARTS/blob/master/Sharing/W1-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%90%86%E8%A7%A3.md）
+- **Share**：[微服务的简单理解](https://github.com/hornsey/ARTS/blob/master/Sharing/W1-%E5%BE%AE%E6%9C%8D%E5%8A%A1%E7%90%86%E8%A7%A3.md)
 
 
 
